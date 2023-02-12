@@ -1,3 +1,4 @@
 # Git & GitHub
 
-now new
+now ne
+this changes the remote, how to update the local now?
